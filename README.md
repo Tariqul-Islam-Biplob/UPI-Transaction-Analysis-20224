@@ -1,4 +1,4 @@
-# 📊 UPI Transactions 2024 – Power BI Analytics Dashboard
+# 📊 UPI Transactions 2024 ( India )
 
 This project provides an interactive and insightful Power BI dashboard built on a synthetic dataset of UPI  transactions for the year 2024 in India. It explores transaction trends, bank performance, state-wise insights, device/network behavior, and fraud analysis.
 
