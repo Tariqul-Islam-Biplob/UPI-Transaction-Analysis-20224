@@ -3,7 +3,8 @@
 This project provides an interactive and insightful Power BI dashboard built on a synthetic dataset of UPI  transactions for the year 2024 in India. It explores transaction trends, bank performance, state-wise insights, device/network behavior, and fraud analysis.
 
 
-<img width="993" height="557" alt="image" src="https://github.com/user-attachments/assets/601ae3e6-44ee-4e8e-9c37-1a8b833a4f32" />
+<img width="998" height="561" alt="image" src="https://github.com/user-attachments/assets/25280d28-e1bb-45ef-ad91-88fc3c75122d" />
+
  <!-- Replace with a real preview screenshot -->
 
 
