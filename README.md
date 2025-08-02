@@ -54,7 +54,7 @@ This project provides an interactive and insightful Power BI dashboard built on 
 
 
 
-## 🎯 Business Use Cases
+##  Business Use Cases
 
 - Banking performance benchmarking
 - UPI adoption analysis across states
@@ -64,7 +64,7 @@ This project provides an interactive and insightful Power BI dashboard built on 
 
 ---
 
-## 🛠️ Built With
+## 🛠 Built With
 
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
